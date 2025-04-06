@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CadastrodePessoas.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CadastrodePessoas_jar</output-path>
+    <root id="archive" name="Java-para-iniciantes.jar">
+      <element id="module-output" name="Java-para-iniciantes" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
