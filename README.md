@@ -113,8 +113,8 @@ Você pode testar:
 
 ## 👨‍💻 Autor
 
-Desenvolvido com 💙 por [Seu Nome Aqui]  
-Entre em contato via [LinkedIn](https://www.linkedin.com)
+Desenvolvido com 💙 por [Sérgio Badaró]  
+Entre em contato via [LinkedIn](https://www.linkedin.com/in/sergiobadaro/)
 
 ---
 
